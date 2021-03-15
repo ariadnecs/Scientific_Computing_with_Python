@@ -10,6 +10,7 @@ I think that you will love to learn python as I do.
 He is a Clinical Professor at the University of Michigan School of Information, where he teaches various technology-oriented courses including programming, database design, and web development."
 
 https://www.freecodecamp.org/learn/scientific-computing-with-python/
+https://www.py4e.com/
 
 I hope you guys have fun.
 A virtual hug and stay safe everyone!
