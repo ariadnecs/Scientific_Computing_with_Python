@@ -7,7 +7,7 @@ while True:
     try:
         fuser = float(user)
     except:
-        print('Invalid value! Try again.')
+        print('Invalid input! Try again.')
         continue
     total = total + fuser
     count += 1
