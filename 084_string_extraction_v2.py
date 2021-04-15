@@ -4,5 +4,5 @@ x = 'Science spock@startrek.com command kirk@startrek.com communications uhura@s
 y = re.findall('\S+@\S+', x)
 print(y)
 
-y = re.findall('^Science (\S+@\S+)', x)
+y = re.findall('^Science (\\S+@\\S+)', x)
 print(y)
